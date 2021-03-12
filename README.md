@@ -10,12 +10,12 @@ script settings for future reference:
 GIT_PROJECT_NAME="G15SDSHackathon2021"
 
 **virtualmachine_deploy.azcli:**  
-NUMBER="01"  
-DATE="12032021"  
-VM_INSTANCE_TYPE="Standard_E4s_v4"  
+NUMBER="11"  
+DATE="11032021"  
+VM_INSTANCE_TYPE="Standard_A8m_v2"  
 LOCATION="northeurope"  
 
 **cognitive_deploy.azcli:**  
-DATE="120321"  
-RESOURCE_GROUP="cognitiveRG1"  
+DATE="110321"  
+RESOURCE_GROUP="cognitiveRG11"  
 LOCATION="westeurope"  
