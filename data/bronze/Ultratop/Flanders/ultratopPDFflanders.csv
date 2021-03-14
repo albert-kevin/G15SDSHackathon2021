@@ -1,0 +1,851 @@
+#,VW,W,Artiest,Titel,Label,Distributeur,HP,fileDate
+1,2,12,Jaap Reesema & Pommelien Thijs,Nu wij niet meerpraten,MOSTIKO,CNR,1,02_01_2021
+2,1,9,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,02_01_2021
+3,3,21,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,02_01_2021
+4,4,18,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,02_01_2021
+5,7,19,BTS,Dynamite,BIGHIT,SONY,5,02_01_2021
+6,15,56,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,02_01_2021
+7,8,7,Regi & Camille,Vechter,DPG/INMEDIATEINT,CNR,7,02_01_2021
+8,5,17,Tate McRae,You Broke Me First,RCA,SONY,4,02_01_2021
+9,10,15,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,02_01_2021
+10,6,5,Tiësto,The Business,ATLANTIC,WARNER,6,02_01_2021
+11,13,16,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,02_01_2021
+12,35,2,The Kid Laroi,Without You,COLUMBIA,SONY,12,02_01_2021
+13,30,25,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,02_01_2021
+14,16,9,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,14,02_01_2021
+15,33,4,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,15,02_01_2021
+16,24,26,Banners,Someone To You,ISLAND,UNIVERSAL,8,02_01_2021
+17,12,7,Ofenbach & Quarterhead feat. Norma Jean Martine,Head Shoulders Knees& Toes,SPINNIN',WARNER,12,02_01_2021
+18,11,10,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,02_01_2021
+19,19,22,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,02_01_2021
+20,23,14,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,02_01_2021
+21,18,15,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,02_01_2021
+22,14,7,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,02_01_2021
+23,25,8,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,02_01_2021
+24,20,15,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,02_01_2021
+25,17,13,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,02_01_2021
+26,44,65,Tones And I,Dance Monkey,ELEKTRA,WARNER,1,02_01_2021
+27,22,12,Bazart,Denk maar niet aanmorgen,DEBONAIR,PIAS,11,02_01_2021
+28,NEW,1,Ed Sheeran,Afterglow,ATLANTIC,WARNER,28,02_01_2021
+29,9,4,Lil Nas X,Holiday,COLUMBIA,SONY,9,02_01_2021
+30,28,6,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,02_01_2021
+31,32,13,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,02_01_2021
+32,36,4,Dimitri Vegas & Like Mike x Armin van Buuren x BrennanHeart feat. Jeremy Oceans,Christmas Time,SMASH THEHOUSE,SMASH THEHOUSE,32,02_01_2021
+33,29,7,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,27,02_01_2021
+34,21,19,Miley Cyrus,Midnight Sky,RCA,SONY,6,02_01_2021
+35,26,10,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,02_01_2021
+36,27,31,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,02_01_2021
+37,38,7,Harry Styles,Golden,COLUMBIA,SONY,37,02_01_2021
+38,31,15,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,CAROLINE,UNIVERSAL,13,02_01_2021
+39,43,8,Milow,First Day Of My Life,HOMERUN,SONY,28,02_01_2021
+40,37,13,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,28,02_01_2021
+41,34,3,Noordkaap & Warmste Koor,Ik hou van u 2020,NOORDKAAP,NOORDKAAP,33,02_01_2021
+42,NEW,1,Ava Max,Christmas Without You,ATLANTIC,WARNER,42,02_01_2021
+43,41,15,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,02_01_2021
+44,42,9,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,02_01_2021
+45,40,13,Pop Smoke,What You Know BoutLove,REPUBLIC,TOPNOTCH/UNIVERSAL,26,02_01_2021
+46,47,28,Jawsh 685 & Jason Derulo,Savage Love (Laxed -Siren Beat),COLUMBIA,SONY,1,02_01_2021
+47,39,10,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,26,02_01_2021
+48,NEW,1,Nothing But Thieves,Impossible,RCA,SONY,48,02_01_2021
+49,46,7,James Arthur,Train Wreck,COLUMBIA,SONY,41,02_01_2021
+50,RE,48,Lewis Capaldi,Before You Go,VERTIGO,UNIVERSAL,2,02_01_2021
+1,2,5,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,05_12_2020
+2,4,8,Jaap Reesema & Pommelien Thijs,Nu wij niet meerpraten,MOSTIKO,CNR,2,05_12_2020
+3,1,17,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,05_12_2020
+4,3,14,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,05_12_2020
+5,5,13,Tate McRae,You Broke Me First,RCA,SONY,4,05_12_2020
+6,10,6,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,05_12_2020
+7,7,10,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,05_12_2020
+8,6,15,BTS,Dynamite,BIGHIT,SONY,6,05_12_2020
+9,13,15,Miley Cyrus,Midnight Sky,RCA,SONY,6,05_12_2020
+10,15,18,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,05_12_2020
+11,12,3,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,11,05_12_2020
+12,8,11,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,05_12_2020
+13,11,3,Regi & Camille,Vechter,DPG/INMEDIATEINT,CNR,11,05_12_2020
+14,24,4,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,05_12_2020
+15,17,11,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,05_12_2020
+16,21,8,Bazart,Denk maar niet aanmorgen,DEBONAIR,PIAS,16,05_12_2020
+17,9,11,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,05_12_2020
+18,16,12,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,05_12_2020
+19,14,6,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,05_12_2020
+20,19,9,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,17,05_12_2020
+21,26,52,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,05_12_2020
+22,22,11,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,CAROLINE,UNIVERSAL,13,05_12_2020
+23,18,9,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,05_12_2020
+24,35,24,Ava Max,Kings & Queens,ATLANTIC,WARNER,4,05_12_2020
+25,23,5,Ava Max,Who's LaughingNow?,ATLANTIC,WARNER,23,05_12_2020
+26,20,21,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,05_12_2020
+27,27,22,Banners,Someone To You,ISLAND,UNIVERSAL,8,05_12_2020
+28,32,2,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,28,05_12_2020
+29,28,9,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,28,05_12_2020
+30,40,3,Ofenbach & Quarterhead feat. Norma Jean Martine,Head ShouldersKnees & Toes,SPINNIN',WARNER,30,05_12_2020
+31,39,3,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,31,05_12_2020
+32,34,36,Topic feat. A7S,Breaking Me,VIRGIN,UNIVERSAL,3,05_12_2020
+33,36,11,Justin Bieber feat. Chance The Rapper,Holy,DEF JAM,UNIVERSAL,19,05_12_2020
+34,30,4,Milow,First Day Of My Life,HOMERUN,SONY,28,05_12_2020
+35,46,2,Shawn Mendes / Justin Bieber,Monster,ISLAND,UNIVERSAL,35,05_12_2020
+36,37,4,Liefde Voor Muziek voor Rode Neuzen Dag,Porselein,DPG/INMEDIATEINT,CNR,32,05_12_2020
+37,31,9,Pop Smoke,What You Know BoutLove,REPUBLIC,TOPNOTCH/UNIVERSAL,26,05_12_2020
+38,25,27,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,05_12_2020
+39,33,6,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,31,05_12_2020
+40,NEW,1,Tiësto,The Business,ATLANTIC,WARNER,40,05_12_2020
+41,29,5,5napback & Metejoor,Hoe kon ik zo domzijn,MOSTIKO,CNR,27,05_12_2020
+42,48,3,Harry Styles,Golden,COLUMBIA,SONY,42,05_12_2020
+43,41,4,James Arthur,Train Wreck,COLUMBIA,SONY,41,05_12_2020
+44,50,16,Taylor Swift feat. Bon Iver,Exile,REPUBLIC,UNIVERSAL,37,05_12_2020
+45,38,12,Kygo x Tina Turner,What's Love Got ToDo With It,SONY,SONY,12,05_12_2020
+46,45,11,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,05_12_2020
+47,NEW,1,Sandra Kim,Who Are You (DeKoningin),MOSTIKO,CNR,47,05_12_2020
+48,NEW,1,Dimitri Vegas & Like Mike x Armin van Buuren x BrennanHeart feat. Jeremy Oceans,Christmas Time,SMASH THEHOUSE,SMASH THEHOUSE,48,05_12_2020
+49,RE,61,Tones And I,Dance Monkey,ELEKTRA,WARNER,1,05_12_2020
+50,NEW,1,Hooverphonic,Mad About You 2020,UNIVERSAL,UNIVERSAL,50,05_12_2020
+1,1,4,Olivia Rodrigo,Drivers License,GEFFEN,UNIVERSAL,1,06_02_2021
+2,4,7,The Kid Laroi,Without You,COLUMBIA,SONY,2,06_02_2021
+3,5,14,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,06_02_2021
+4,2,10,Tiësto,The Business,ATLANTIC,WARNER,2,06_02_2021
+5,3,17,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,06_02_2021
+6,16,4,The Weeknd,Save Your Tears,REPUBLIC,UNIVERSAL,6,06_02_2021
+7,9,12,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',SPINNIN',7,06_02_2021
+8,7,26,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,06_02_2021
+9,11,14,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,8,06_02_2021
+10,15,17,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,10,06_02_2021
+11,10,9,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,10,06_02_2021
+12,13,12,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,12,06_02_2021
+13,12,22,Tate McRae,You Broke Me First,RCA,SONY,4,06_02_2021
+14,6,6,Ed Sheeran,Afterglow,ATLANTIC,WARNER,5,06_02_2021
+15,14,24,BTS,Dynamite,BIGHIT,SONY,5,06_02_2021
+16,8,23,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,06_02_2021
+17,27,3,HVME,Goosebumps,B1,SONY,17,06_02_2021
+18,19,13,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,06_02_2021
+19,21,5,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,19,06_02_2021
+20,22,4,Robin Schulz feat. Kiddo,All We Got,WARNER,WARNER,20,06_02_2021
+21,30,4,Shane Codd,Get Out My Head,POLYDOR,UNIVERSAL,21,06_02_2021
+22,23,21,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,06_02_2021
+23,24,6,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,23,06_02_2021
+24,17,12,Regi & Camille,Vechter,DPG/INMEDIATE INT,CNR,7,06_02_2021
+25,34,3,Sheppard,Learning To Fly,DECCA,UNIVERSAL,25,06_02_2021
+26,18,24,Miley Cyrus,Midnight Sky,RCA,SONY,6,06_02_2021
+27,25,15,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,06_02_2021
+28,29,18,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,06_02_2021
+29,26,9,Lil Nas X,Holiday,COLUMBIA,SONY,9,06_02_2021
+30,20,20,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,06_02_2021
+31,31,12,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,06_02_2021
+32,32,31,Banners,Someone To You,ISLAND,UNIVERSAL,8,06_02_2021
+33,28,20,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,06_02_2021
+34,33,20,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,06_02_2021
+35,37,2,atb x Topic x A7S,Your Love (9PM),RIDE,RIDE,35,06_02_2021
+36,38,19,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,06_02_2021
+37,35,61,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,06_02_2021
+38,45,3,Purple Disco Machine & Sophie And The Giants,Hypnotized,COLUMBIA,SONY,38,06_02_2021
+39,42,15,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,06_02_2021
+40,NEW,1,Metejoor feat. Babet,1 op een miljoen,FRUITY,CNR,40,06_02_2021
+41,41,5,Taylor Swift,Willow,REPUBLIC,UNIVERSAL,40,06_02_2021
+42,36,11,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,06_02_2021
+43,NEW,1,Stan Van Samang,Snow,LIVEENTERTAINMENT,UNIVERSAL,43,06_02_2021
+44,NEW,1,Celeste [UK],Love Is Back,POLYDOR,UNIVERSAL,44,06_02_2021
+45,40,36,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,06_02_2021
+46,RE,4,Nothing But Thieves,Impossible,RCA,SONY,45,06_02_2021
+47,NEW,1,Maude [BE],Dance You Off,MOSTIKO,CNR,47,06_02_2021
+48,39,27,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,06_02_2021
+49,46,11,James Arthur,Train Wreck,COLUMBIA,SONY,41,06_02_2021
+50,NEW,1,Sabien Tiels feat. Westelinck,Als jij het niet meer weet,VLNL,CRICKET HILL,50,06_02_2021
+1,4,8,The Weeknd,Save Your Tears,REPUBLIC,UNIVERSAL,1,06_03_2021
+2,2,11,The Kid Laroi,Without You,COLUMBIA,SONY,2,06_03_2021
+3,5,14,Tiësto,The Business,ATLANTIC,WARNER,2,06_03_2021
+4,3,4,Nathan Evans,Wellerman,POLYDOR,UNIVERSAL,3,06_03_2021
+5,1,8,Olivia Rodrigo,Drivers License,GEFFEN,UNIVERSAL,1,06_03_2021
+6,7,21,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,06_03_2021
+7,18,2,Riton x Nightcrawlers feat. Mufasa & Hypeman,Friday (Dopamine Re-Edit),MINISTRY OF SOUND,SONY,7,06_03_2021
+8,8,5,Metejoor feat. Babet,1 op een miljoen,FRUITY,CNR,8,06_03_2021
+9,6,18,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,06_03_2021
+10,9,10,Ed Sheeran,Afterglow,ATLANTIC,WARNER,5,06_03_2021
+11,10,13,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,10,06_03_2021
+12,13,8,Robin Schulz feat. Kiddo,All We Got,WARNER,WARNER,12,06_03_2021
+13,12,16,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',SPINNIN',7,06_03_2021
+14,11,30,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,06_03_2021
+15,17,10,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,15,06_03_2021
+16,15,9,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,15,06_03_2021
+17,27,6,atb x Topic x A7S,Your Love (9PM),RIDE,RIDE,17,06_03_2021
+18,24,8,Shane Codd,Get Out My Head,POLYDOR,UNIVERSAL,16,06_03_2021
+19,26,7,Purple Disco Machine & Sophie And The Giants,Hypnotized,COLUMBIA,SONY,19,06_03_2021
+20,14,7,HVME,Goosebumps,B1,SONY,14,06_03_2021
+21,30,7,Sheppard,Learning To Fly,DECCA,UNIVERSAL,21,06_03_2021
+22,50,2,Cleymans & Van Geel,En route,DPG/INMEDIATE INT,CNR,22,06_03_2021
+23,19,21,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,8,06_03_2021
+24,16,16,Regi & Camille,Vechter,DPG/INMEDIATE INT,CNR,7,06_03_2021
+25,20,16,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,12,06_03_2021
+26,21,26,Tate McRae,You Broke Me First,RCA,SONY,4,06_03_2021
+27,28,28,BTS,Dynamite,BIGHIT,SONY,5,06_03_2021
+28,22,27,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,06_03_2021
+29,29,65,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,06_03_2021
+30,23,17,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,13,06_03_2021
+31,32,25,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,06_03_2021
+32,45,5,Maude [BE],Dance You Off,MOSTIKO,CNR,31,06_03_2021
+33,25,18,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,8,06_03_2021
+34,34,35,Banners,Someone To You,ISLAND,UNIVERSAL,8,06_03_2021
+35,40,2,Tom Grennan,Little Bit Of Love,INSANITY,SONY,35,06_03_2021
+36,47,4,Sara Kays,Remember That Night?,ATLANTIC,WARNER,36,06_03_2021
+37,31,22,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,06_03_2021
+38,NEW,1,P!nk + Willow Sage Hart,Cover Me In Sunshine,RCA,SONY,38,06_03_2021
+39,38,16,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,06_03_2021
+40,36,3,Dua Lipa,We're Good,WARNER,WARNER,36,06_03_2021
+41,41,3,Zoe Wees,Girls Like Us,CAPITOL,UNIVERSAL,41,06_03_2021
+42,44,4,Celeste [UK],Love Is Back,POLYDOR,UNIVERSAL,40,06_03_2021
+43,37,3,JC Stewart,Break My Heart,WARNER,WARNER,37,06_03_2021
+44,42,5,Stan Van Samang,Snow,LIVEENTERTAINMENT,UNIVERSAL,39,06_03_2021
+45,49,2,Lil Tjay feat. 6lack,Calling My Phone,COLUMBIA,SONY,45,06_03_2021
+46,33,13,Lil Nas X,Holiday,COLUMBIA,SONY,9,06_03_2021
+47,NEW,1,Masked Wolf,Astronaut In The Ocean,ELEKTRA,WARNER,47,06_03_2021
+48,46,28,Miley Cyrus,Midnight Sky,RCA,SONY,6,06_03_2021
+49,43,19,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,06_03_2021
+50,35,15,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,06_03_2021
+1,2,10,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,09_01_2021
+2,4,19,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,09_01_2021
+3,1,13,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,09_01_2021
+4,3,22,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,09_01_2021
+5,10,6,Tiësto,The Business,ATLANTIC,WARNER,5,09_01_2021
+6,8,18,Tate McRae,You Broke Me First,RCA,SONY,4,09_01_2021
+7,28,2,Ed Sheeran,Afterglow,ATLANTIC,WARNER,7,09_01_2021
+8,5,20,BTS,Dynamite,BIGHIT,SONY,5,09_01_2021
+9,7,8,Regi & Camille,Vechter,DPG/INMEDIATEINT,CNR,7,09_01_2021
+10,19,23,Master KG feat. Burna Boy & NomceboZikode,Jerusalema (Remix),ELEKTRA,WARNER,1,09_01_2021
+11,6,57,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,09_01_2021
+12,18,11,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,09_01_2021
+13,17,8,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',WARNER,12,09_01_2021
+14,21,16,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,09_01_2021
+15,14,10,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,14,09_01_2021
+16,24,16,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,09_01_2021
+17,11,17,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,09_01_2021
+18,23,9,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,09_01_2021
+19,15,5,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,15,09_01_2021
+20,12,3,The Kid Laroi,Without You,COLUMBIA,SONY,12,09_01_2021
+21,22,8,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,09_01_2021
+22,27,13,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,11,09_01_2021
+23,29,5,Lil Nas X,Holiday,COLUMBIA,SONY,9,09_01_2021
+24,9,16,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,09_01_2021
+25,34,20,Miley Cyrus,Midnight Sky,RCA,SONY,6,09_01_2021
+26,20,15,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,09_01_2021
+27,35,11,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,09_01_2021
+28,25,14,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,09_01_2021
+29,16,27,Banners,Someone To You,ISLAND,UNIVERSAL,8,09_01_2021
+30,30,7,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,09_01_2021
+31,33,8,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,27,09_01_2021
+32,36,32,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,09_01_2021
+33,31,14,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,09_01_2021
+34,40,14,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,28,09_01_2021
+35,38,16,Internet Money & Gunna feat. Don Toliver &Nav,Lemonade,CAROLINE,UNIVERSAL,13,09_01_2021
+36,NEW,1,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,36,09_01_2021
+37,13,26,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,09_01_2021
+38,26,66,Tones And I,Dance Monkey,ELEKTRA,WARNER,1,09_01_2021
+39,44,10,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,09_01_2021
+40,47,11,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,26,09_01_2021
+41,39,9,Milow,First Day Of My Life,HOMERUN,SONY,28,09_01_2021
+42,49,8,James Arthur,Train Wreck,COLUMBIA,SONY,41,09_01_2021
+43,37,8,Harry Styles,Golden,COLUMBIA,SONY,37,09_01_2021
+44,RE,2,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,44,09_01_2021
+45,46,29,Jawsh 685 & Jason Derulo,Savage Love (Laxed - SirenBeat),COLUMBIA,SONY,1,09_01_2021
+46,NEW,1,Taylor Swift,Willow,REPUBLIC,UNIVERSAL,46,09_01_2021
+47,48,2,Nothing But Thieves,Impossible,RCA,SONY,47,09_01_2021
+48,43,16,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,09_01_2021
+49,RE,26,Ava Max,Kings & Queens,ATLANTIC,WARNER,4,09_01_2021
+50,45,14,Pop Smoke,What You Know Bout Love,REPUBLIC,TOPNOTCH/UNIVERSAL,26,09_01_2021
+1,1,6,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,12_12_2020
+2,3,18,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,12_12_2020
+3,2,9,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,2,12_12_2020
+4,5,14,Tate McRae,You Broke Me First,RCA,SONY,4,12_12_2020
+5,4,15,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,12_12_2020
+6,6,7,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,12_12_2020
+7,13,4,Regi & Camille,Vechter,DPG/INMEDIATEINT,CNR,7,12_12_2020
+8,7,11,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,12_12_2020
+9,9,16,Miley Cyrus,Midnight Sky,RCA,SONY,6,12_12_2020
+10,11,4,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,12_12_2020
+11,16,9,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,11,12_12_2020
+12,18,13,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,12_12_2020
+13,21,53,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,12_12_2020
+14,20,10,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,12_12_2020
+15,8,16,BTS,Dynamite,BIGHIT,SONY,6,12_12_2020
+16,15,12,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,12_12_2020
+17,12,12,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,12_12_2020
+18,10,19,Master KG feat. Burna Boy & NomceboZikode,Jerusalema (Remix),ELEKTRA,WARNER,1,12_12_2020
+19,38,28,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,12_12_2020
+20,25,6,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,20,12_12_2020
+21,19,7,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,12_12_2020
+22,27,23,Banners,Someone To You,ISLAND,UNIVERSAL,8,12_12_2020
+23,30,4,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',WARNER,23,12_12_2020
+24,14,5,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,12_12_2020
+25,17,12,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,12_12_2020
+26,39,7,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,26,12_12_2020
+27,31,4,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,27,12_12_2020
+28,23,10,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,12_12_2020
+29,29,10,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,28,12_12_2020
+30,22,12,Internet Money & Gunna feat. Don Toliver &Nav,Lemonade,CAROLINE,UNIVERSAL,13,12_12_2020
+31,32,37,Topic feat. A7S,Breaking Me,VIRGIN,UNIVERSAL,3,12_12_2020
+32,40,2,Tiësto,The Business,ATLANTIC,WARNER,32,12_12_2020
+33,49,62,Tones And I,Dance Monkey,ELEKTRA,WARNER,1,12_12_2020
+34,34,5,Milow,First Day Of My Life,HOMERUN,SONY,28,12_12_2020
+35,24,25,Ava Max,Kings & Queens,ATLANTIC,WARNER,4,12_12_2020
+36,26,22,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,12_12_2020
+37,36,5,Liefde Voor Muziek voor Rode Neuzen Dag,Porselein,DPG/INMEDIATEINT,CNR,32,12_12_2020
+38,NEW,1,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,38,12_12_2020
+39,35,3,Shawn Mendes / Justin Bieber,Monster,ISLAND,UNIVERSAL,35,12_12_2020
+40,28,3,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,28,12_12_2020
+41,42,4,Harry Styles,Golden,COLUMBIA,SONY,41,12_12_2020
+42,NEW,1,Lil Nas X,Holiday,COLUMBIA,SONY,42,12_12_2020
+43,41,6,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,12_12_2020
+44,37,10,Pop Smoke,What You Know Bout Love,REPUBLIC,TOPNOTCH/UNIVERSAL,26,12_12_2020
+45,33,12,Justin Bieber feat. Chance The Rapper,Holy,DEF JAM,UNIVERSAL,19,12_12_2020
+46,46,12,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,12_12_2020
+47,RE,25,Jawsh 685 & Jason Derulo,Savage Love (Laxed - SirenBeat),COLUMBIA,SONY,1,12_12_2020
+48,RE,5,Miss Montreal,Door de wind,CORNELIS,CORNELIS,36,12_12_2020
+49,NEW,1,Lissa Lewis,Regenboog meisje,MOSTIKO,CNR,49,12_12_2020
+50,NEW,1,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,50,12_12_2020
+1,1,5,Olivia Rodrigo,Drivers License,GEFFEN,UNIVERSAL,1,13_02_2021
+2,5,18,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,13_02_2021
+3,3,15,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,13_02_2021
+4,4,11,Tiësto,The Business,ATLANTIC,WARNER,2,13_02_2021
+5,2,8,The Kid Laroi,Without You,COLUMBIA,SONY,2,13_02_2021
+6,6,5,The Weeknd,Save Your Tears,REPUBLIC,UNIVERSAL,6,13_02_2021
+7,8,27,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,13_02_2021
+8,10,18,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,8,13_02_2021
+9,14,7,Ed Sheeran,Afterglow,ATLANTIC,WARNER,5,13_02_2021
+10,11,10,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,10,13_02_2021
+11,7,13,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',SPINNIN',7,13_02_2021
+12,9,15,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,8,13_02_2021
+13,12,13,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,12,13_02_2021
+14,20,5,Robin Schulz feat. Kiddo,All We Got,WARNER,WARNER,14,13_02_2021
+15,16,24,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,13_02_2021
+16,21,5,Shane Codd,Get Out My Head,POLYDOR,UNIVERSAL,16,13_02_2021
+17,17,4,HVME,Goosebumps,B1,SONY,17,13_02_2021
+18,15,25,BTS,Dynamite,BIGHIT,SONY,5,13_02_2021
+19,24,13,Regi & Camille,Vechter,DPG/INMEDIATE INT,CNR,7,13_02_2021
+20,18,14,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,13_02_2021
+21,13,23,Tate McRae,You Broke Me First,RCA,SONY,4,13_02_2021
+22,19,6,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,19,13_02_2021
+23,23,7,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,23,13_02_2021
+24,26,25,Miley Cyrus,Midnight Sky,RCA,SONY,6,13_02_2021
+25,29,10,Lil Nas X,Holiday,COLUMBIA,SONY,9,13_02_2021
+26,40,2,Metejoor feat. Babet,1 op een miljoen,FRUITY,CNR,26,13_02_2021
+27,31,13,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,13_02_2021
+28,22,22,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,13_02_2021
+29,32,32,Banners,Someone To You,ISLAND,UNIVERSAL,8,13_02_2021
+30,38,4,Purple Disco Machine & Sophie And The Giants,Hypnotized,COLUMBIA,SONY,30,13_02_2021
+31,47,2,Maude [BE],Dance You Off,MOSTIKO,CNR,31,13_02_2021
+32,27,16,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,13_02_2021
+33,37,62,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,13_02_2021
+34,28,19,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,13_02_2021
+35,25,4,Sheppard,Learning To Fly,DECCA,UNIVERSAL,25,13_02_2021
+36,NEW,1,Nathan Evans,Wellerman,POLYDOR,UNIVERSAL,36,13_02_2021
+37,33,21,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,13_02_2021
+38,35,3,atb x Topic x A7S,Your Love (9PM),RIDE,RIDE,35,13_02_2021
+39,34,21,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,13_02_2021
+40,36,20,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,13_02_2021
+41,42,12,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,13_02_2021
+42,39,16,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,13_02_2021
+43,41,6,Taylor Swift,Willow,REPUBLIC,UNIVERSAL,40,13_02_2021
+44,50,2,Sabien Tiels feat. Westelinck,Als jij het niet meer weet,VLNL,CRICKET HILL,44,13_02_2021
+45,43,2,Stan Van Samang,Snow,LIVEENTERTAINMENT,UNIVERSAL,43,13_02_2021
+46,30,21,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,13_02_2021
+47,48,28,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,13_02_2021
+48,NEW,1,Zoe Wees,Girls Like Us,CAPITOL,UNIVERSAL,48,13_02_2021
+49,45,37,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,13_02_2021
+50,NEW,1,Sara Kays,Remember That Night?,ATLANTIC,WARNER,50,13_02_2021
+1,3,2,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,14_11_2020
+2,1,14,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,14_11_2020
+3,2,11,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,14_11_2020
+4,5,10,Tate McRae,You Broke Me First,RCA,SONY,4,14_11_2020
+5,7,7,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,14_11_2020
+6,8,12,Miley Cyrus,Midnight Sky,RCA,SONY,6,14_11_2020
+7,6,5,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,4,14_11_2020
+8,4,15,Master KG feat. Burna Boy & NomceboZikode,Jerusalema (Remix),ELEKTRA,WARNER,1,14_11_2020
+9,9,12,BTS,Dynamite,BIGHIT,SONY,7,14_11_2020
+10,16,18,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,14_11_2020
+11,14,9,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,14_11_2020
+12,12,19,Banners,Someone To You,ISLAND,UNIVERSAL,8,14_11_2020
+13,10,8,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,10,14_11_2020
+14,11,8,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,14_11_2020
+15,19,3,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,15,14_11_2020
+16,13,8,Internet Money & Gunna feat. Don Toliver &Nav,Lemonade,CAROLINE,UNIVERSAL,13,14_11_2020
+17,24,5,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,17,14_11_2020
+18,18,24,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,14_11_2020
+19,25,8,Justin Bieber feat. Chance The Rapper,Holy,DEF JAM,UNIVERSAL,19,14_11_2020
+20,17,3,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,17,14_11_2020
+21,21,8,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,21,14_11_2020
+22,20,6,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,17,14_11_2020
+23,23,9,Kygo x Tina Turner,What's Love Got To Do With It,SONY,SONY,12,14_11_2020
+24,29,49,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,14_11_2020
+25,NEW,1,Laura Tesoro & Loïc Nottet feat. AlexGermys,Strangers,SONY,SONY,25,14_11_2020
+26,15,21,Ava Max,Kings & Queens,ATLANTIC,WARNER,4,14_11_2020
+27,30,6,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,27,14_11_2020
+28,33,33,Topic feat. A7S,Breaking Me,VIRGIN,UNIVERSAL,3,14_11_2020
+29,28,22,Jawsh 685 & Jason Derulo,Savage Love (Laxed - SirenBeat),COLUMBIA,SONY,1,14_11_2020
+30,31,12,Suzan & Freek / Snelle,De overkant,SONY/CLOUD 9,SONY,11,14_11_2020
+31,22,16,Aya Nakamura,Jolie nana,REC. 118,WARNER,8,14_11_2020
+32,26,6,Pop Smoke,What You Know Bout Love,REPUBLIC,TOPNOTCH/UNIVERSAL,26,14_11_2020
+33,27,2,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,14_11_2020
+34,32,3,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,32,14_11_2020
+35,34,22,Ray Dalton,In My Bones,EPIC,SONY,13,14_11_2020
+36,38,6,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,36,14_11_2020
+37,36,8,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,14_11_2020
+38,37,12,Cardi B feat. Megan Thee Stallion,WAP,ATLANTIC,WARNER,14,14_11_2020
+39,46,2,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,39,14_11_2020
+40,40,18,Robin Schulz & Wes,Alane,WARNER,WARNER,14,14_11_2020
+41,42,5,Dua Lipa feat. DaBaby,Levitating,WARNER,WARNER,32,14_11_2020
+42,44,6,Celeste [UK],Little Runaway,POLYDOR,UNIVERSAL,42,14_11_2020
+43,50,4,Miss Montreal,Door de wind,CORNELIS,CORNELIS,36,14_11_2020
+44,NEW,1,Milow,First Day Of My Life,HOMERUN,SONY,44,14_11_2020
+45,35,28,DaBaby feat. Roddy Ricch,Rockstar,INTERSCOPE,TOPNOTCH/UNIVERSAL,2,14_11_2020
+46,43,13,Taylor Swift feat. Bon Iver,Exile,REPUBLIC,UNIVERSAL,37,14_11_2020
+47,NEW,1,James Arthur,Train Wreck,COLUMBIA,SONY,47,14_11_2020
+48,39,14,Dermot Kennedy,Giants,INTERSCOPE,UNIVERSAL,27,14_11_2020
+49,41,7,Pop Smoke feat. Lil Baby & DaBaby,For The Night,REPUBLIC,TOPNOTCH/UNIVERSAL,41,14_11_2020
+50,NEW,1,Liefde Voor Muziek voor Rode Neuzen Dag,Porselein,DPG/INMEDIATEINT,CNR,50,14_11_2020
+1,1,11,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,16_01_2021
+2,3,14,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,16_01_2021
+3,5,7,Tiësto,The Business,ATLANTIC,WARNER,3,16_01_2021
+4,4,23,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,16_01_2021
+5,7,3,Ed Sheeran,Afterglow,ATLANTIC,WARNER,5,16_01_2021
+6,20,4,The Kid Laroi,Without You,COLUMBIA,SONY,6,16_01_2021
+7,2,20,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,16_01_2021
+8,15,11,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,8,16_01_2021
+9,8,21,BTS,Dynamite,BIGHIT,SONY,5,16_01_2021
+10,19,6,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,10,16_01_2021
+11,6,19,Tate McRae,You Broke Me First,RCA,SONY,4,16_01_2021
+12,13,9,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',WARNER,12,16_01_2021
+13,9,9,Regi & Camille,Vechter,DPG/INMEDIATE INT,CNR,7,16_01_2021
+14,22,14,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,11,16_01_2021
+15,17,18,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,16_01_2021
+16,12,12,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,16_01_2021
+17,21,9,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,16_01_2021
+18,16,17,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,16_01_2021
+19,14,17,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,16_01_2021
+20,36,2,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,20,16_01_2021
+21,25,21,Miley Cyrus,Midnight Sky,RCA,SONY,6,16_01_2021
+22,31,9,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,22,16_01_2021
+23,NEW,1,Olivia Rodrigo,Drivers License,GEFFEN,UNIVERSAL,23,16_01_2021
+24,24,17,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,16_01_2021
+25,23,6,Lil Nas X,Holiday,COLUMBIA,SONY,9,16_01_2021
+26,11,58,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,16_01_2021
+27,28,15,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,16_01_2021
+28,10,24,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,16_01_2021
+29,18,10,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,16_01_2021
+30,39,11,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,16_01_2021
+31,29,28,Banners,Someone To You,ISLAND,UNIVERSAL,8,16_01_2021
+32,27,12,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,16_01_2021
+33,NEW,1,Shane Codd,Get Out My Head,POLYDOR,UNIVERSAL,33,16_01_2021
+34,26,16,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,16_01_2021
+35,30,8,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,16_01_2021
+36,NEW,1,The Weeknd,Save Your Tears,REPUBLIC,UNIVERSAL,36,16_01_2021
+37,32,33,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,16_01_2021
+38,33,15,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,16_01_2021
+39,37,27,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,16_01_2021
+40,46,2,Taylor Swift,Willow,REPUBLIC,UNIVERSAL,40,16_01_2021
+41,NEW,1,Robin Schulz feat. Kiddo,All We Got,WARNER,WARNER,41,16_01_2021
+42,44,3,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,42,16_01_2021
+43,35,17,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,CAROLINE,UNIVERSAL,13,16_01_2021
+44,41,10,Milow,First Day Of My Life,HOMERUN,SONY,28,16_01_2021
+45,47,3,Nothing But Thieves,Impossible,RCA,SONY,45,16_01_2021
+46,38,67,Tones And I,Dance Monkey,ELEKTRA,WARNER,1,16_01_2021
+47,48,17,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,16_01_2021
+48,40,12,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,26,16_01_2021
+49,RE,3,Lucas & Steve feat. Alida,Another Life,541/NEWS,NEWS,45,16_01_2021
+50,RE,6,Shawn Mendes / Justin Bieber,Monster,ISLAND,UNIVERSAL,35,16_01_2021
+1,1,7,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,19_12_2020
+2,3,10,Jaap Reesema & Pommelien Thijs,Nu wij niet meerpraten,MOSTIKO,CNR,2,19_12_2020
+3,2,19,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,19_12_2020
+4,5,16,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,19_12_2020
+5,4,15,Tate McRae,You Broke Me First,RCA,SONY,4,19_12_2020
+6,6,8,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,19_12_2020
+7,7,5,Regi & Camille,Vechter,DPG/INMEDIATEINT,CNR,7,19_12_2020
+8,15,17,BTS,Dynamite,BIGHIT,SONY,6,19_12_2020
+9,17,13,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,19_12_2020
+10,10,5,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,19_12_2020
+11,13,54,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,19_12_2020
+12,25,13,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,19_12_2020
+13,11,10,Bazart,Denk maar niet aanmorgen,DEBONAIR,PIAS,11,19_12_2020
+14,20,7,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,14,19_12_2020
+15,9,17,Miley Cyrus,Midnight Sky,RCA,SONY,6,19_12_2020
+16,32,3,Tiësto,The Business,ATLANTIC,WARNER,16,19_12_2020
+17,12,14,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,19_12_2020
+18,16,13,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,19_12_2020
+19,14,11,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,19_12_2020
+20,42,2,Lil Nas X,Holiday,COLUMBIA,SONY,20,19_12_2020
+21,8,12,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,19_12_2020
+22,18,20,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,19_12_2020
+23,23,5,Ofenbach & Quarterhead feat. Norma Jean Martine,Head Shoulders Knees& Toes,SPINNIN',WARNER,23,19_12_2020
+24,22,24,Banners,Someone To You,ISLAND,UNIVERSAL,8,19_12_2020
+25,21,8,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,19_12_2020
+26,28,11,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,19_12_2020
+27,40,4,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,19_12_2020
+28,38,2,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,28,19_12_2020
+29,30,13,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,CAROLINE,UNIVERSAL,13,19_12_2020
+30,27,5,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,27,19_12_2020
+31,24,6,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,19_12_2020
+32,44,11,Pop Smoke,What You Know BoutLove,REPUBLIC,TOPNOTCH/UNIVERSAL,26,19_12_2020
+33,NEW,1,Noordkaap & Warmste Koor,Ik hou van u 2020,NOORDKAAP,NOORDKAAP,33,19_12_2020
+34,19,29,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,19_12_2020
+35,36,23,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,19_12_2020
+36,43,7,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,19_12_2020
+37,RE,2,Dimitri Vegas & Like Mike x Armin van Buuren x BrennanHeart feat. Jeremy Oceans,Christmas Time,SMASH THEHOUSE,SMASH THEHOUSE,37,19_12_2020
+38,45,13,Justin Bieber feat. Chance The Rapper,Holy,DEF JAM,UNIVERSAL,19,19_12_2020
+39,39,4,Shawn Mendes / Justin Bieber,Monster,ISLAND,UNIVERSAL,35,19_12_2020
+40,26,8,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,26,19_12_2020
+41,34,6,Milow,First Day Of My Life,HOMERUN,SONY,28,19_12_2020
+42,41,5,Harry Styles,Golden,COLUMBIA,SONY,41,19_12_2020
+43,RE,17,Taylor Swift feat. Bon Iver,Exile,REPUBLIC,UNIVERSAL,37,19_12_2020
+44,RE,5,James Arthur,Train Wreck,COLUMBIA,SONY,41,19_12_2020
+45,46,13,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,19_12_2020
+46,NEW,1,CJ,Whoopty,CJ,WARNER,46,19_12_2020
+47,29,11,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,28,19_12_2020
+48,NEW,1,Lucas & Steve feat. Alida,Another Life,541/NEWS,NEWS,48,19_12_2020
+49,47,26,Jawsh 685 & Jason Derulo,Savage Love (Laxed -Siren Beat),COLUMBIA,SONY,1,19_12_2020
+50,33,63,Tones And I,Dance Monkey,ELEKTRA,WARNER,1,19_12_2020
+1,1,6,Olivia Rodrigo,Drivers License,GEFFEN,UNIVERSAL,1,20_02_2021
+2,4,12,Tiësto,The Business,ATLANTIC,WARNER,2,20_02_2021
+3,3,16,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,20_02_2021
+4,5,9,The Kid Laroi,Without You,COLUMBIA,SONY,2,20_02_2021
+5,6,6,The Weeknd,Save Your Tears,REPUBLIC,UNIVERSAL,5,20_02_2021
+6,2,19,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,20_02_2021
+7,9,8,Ed Sheeran,Afterglow,ATLANTIC,WARNER,5,20_02_2021
+8,36,2,Nathan Evans,Wellerman,POLYDOR,UNIVERSAL,8,20_02_2021
+9,11,14,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',SPINNIN',7,20_02_2021
+10,10,11,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,10,20_02_2021
+11,7,28,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,20_02_2021
+12,8,19,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,8,20_02_2021
+13,20,15,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,13,20_02_2021
+14,14,6,Robin Schulz feat. Kiddo,All We Got,WARNER,WARNER,14,20_02_2021
+15,13,14,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,12,20_02_2021
+16,17,5,HVME,Goosebumps,B1,SONY,16,20_02_2021
+17,19,14,Regi & Camille,Vechter,DPG/INMEDIATE INT,CNR,7,20_02_2021
+18,21,24,Tate McRae,You Broke Me First,RCA,SONY,4,20_02_2021
+19,16,6,Shane Codd,Get Out My Head,POLYDOR,UNIVERSAL,16,20_02_2021
+20,22,7,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,19,20_02_2021
+21,15,25,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,20_02_2021
+22,38,4,atb x Topic x A7S,Your Love (9PM),RIDE,RIDE,22,20_02_2021
+23,28,23,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,20_02_2021
+24,12,16,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,8,20_02_2021
+25,26,3,Metejoor feat. Babet,1 op een miljoen,FRUITY,CNR,25,20_02_2021
+26,23,8,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,23,20_02_2021
+27,18,26,BTS,Dynamite,BIGHIT,SONY,5,20_02_2021
+28,34,20,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,20_02_2021
+29,35,5,Sheppard,Learning To Fly,DECCA,UNIVERSAL,25,20_02_2021
+30,33,63,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,20_02_2021
+31,30,5,Purple Disco Machine & Sophie And The Giants,Hypnotized,COLUMBIA,SONY,30,20_02_2021
+32,29,33,Banners,Someone To You,ISLAND,UNIVERSAL,8,20_02_2021
+33,37,22,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,20_02_2021
+34,27,14,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,20_02_2021
+35,41,13,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,20_02_2021
+36,32,17,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,20_02_2021
+37,31,3,Maude [BE],Dance You Off,MOSTIKO,CNR,31,20_02_2021
+38,25,11,Lil Nas X,Holiday,COLUMBIA,SONY,9,20_02_2021
+39,45,3,Stan Van Samang,Snow,LIVEENTERTAINMENT,UNIVERSAL,39,20_02_2021
+40,RE,2,Celeste [UK],Love Is Back,POLYDOR,UNIVERSAL,40,20_02_2021
+41,39,22,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,20_02_2021
+42,50,2,Sara Kays,Remember That Night?,ATLANTIC,WARNER,42,20_02_2021
+43,24,26,Miley Cyrus,Midnight Sky,RCA,SONY,6,20_02_2021
+44,49,38,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,20_02_2021
+45,47,29,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,20_02_2021
+46,NEW,1,Dua Lipa,We're Good,WARNER,WARNER,46,20_02_2021
+47,NEW,1,JC Stewart,Break My Heart,WARNER,WARNER,47,20_02_2021
+48,43,7,Taylor Swift,Willow,REPUBLIC,UNIVERSAL,40,20_02_2021
+49,40,21,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,20_02_2021
+50,NEW,1,Harry Styles,Treat People With Kindness,COLUMBIA,SONY,50,20_02_2021
+1,1,3,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,21_11_2020
+2,2,15,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,21_11_2020
+3,7,6,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,3,21_11_2020
+4,3,12,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,21_11_2020
+5,4,11,Tate McRae,You Broke Me First,RCA,SONY,4,21_11_2020
+6,5,8,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,21_11_2020
+7,6,13,Miley Cyrus,Midnight Sky,RCA,SONY,6,21_11_2020
+8,9,13,BTS,Dynamite,BIGHIT,SONY,7,21_11_2020
+9,14,9,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,21_11_2020
+10,10,19,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,21_11_2020
+11,13,9,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,10,21_11_2020
+12,8,16,Master KG feat. Burna Boy & NomceboZikode,Jerusalema (Remix),ELEKTRA,WARNER,1,21_11_2020
+13,NEW,1,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,13,21_11_2020
+14,11,10,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,21_11_2020
+15,15,4,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,15,21_11_2020
+16,21,9,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,16,21_11_2020
+17,20,4,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,17,21_11_2020
+18,16,9,Internet Money & Gunna feat. Don Toliver &Nav,Lemonade,CAROLINE,UNIVERSAL,13,21_11_2020
+19,12,20,Banners,Someone To You,ISLAND,UNIVERSAL,8,21_11_2020
+20,22,7,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,17,21_11_2020
+21,25,2,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,21,21_11_2020
+22,17,6,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,17,21_11_2020
+23,23,10,Kygo x Tina Turner,What's Love Got To Do With It,SONY,SONY,12,21_11_2020
+24,24,50,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,21_11_2020
+25,27,7,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,25,21_11_2020
+26,NEW,1,Regi & Camille,Vechter,DPG/INMEDIATEINT,CNR,26,21_11_2020
+27,26,22,Ava Max,Kings & Queens,ATLANTIC,WARNER,4,21_11_2020
+28,44,2,Milow,First Day Of My Life,HOMERUN,SONY,28,21_11_2020
+29,18,25,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,21_11_2020
+30,19,9,Justin Bieber feat. Chance The Rapper,Holy,DEF JAM,UNIVERSAL,19,21_11_2020
+31,34,4,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,31,21_11_2020
+32,50,2,Liefde Voor Muziek voor Rode Neuzen Dag,Porselein,DPG/INMEDIATEINT,CNR,32,21_11_2020
+33,32,7,Pop Smoke,What You Know Bout Love,REPUBLIC,TOPNOTCH/UNIVERSAL,26,21_11_2020
+34,28,34,Topic feat. A7S,Breaking Me,VIRGIN,UNIVERSAL,3,21_11_2020
+35,33,3,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,21_11_2020
+36,29,23,Jawsh 685 & Jason Derulo,Savage Love (Laxed - SirenBeat),COLUMBIA,SONY,1,21_11_2020
+37,31,17,Aya Nakamura,Jolie nana,REC. 118,WARNER,8,21_11_2020
+38,36,7,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,36,21_11_2020
+39,39,3,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,39,21_11_2020
+40,30,13,Suzan & Freek / Snelle,De overkant,SONY/CLOUD 9,SONY,11,21_11_2020
+41,NEW,1,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',WARNER,41,21_11_2020
+42,35,23,Ray Dalton,In My Bones,EPIC,SONY,13,21_11_2020
+43,37,9,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,21_11_2020
+44,41,6,Dua Lipa feat. DaBaby,Levitating,WARNER,WARNER,32,21_11_2020
+45,47,2,James Arthur,Train Wreck,COLUMBIA,SONY,45,21_11_2020
+46,NEW,1,Harry Styles,Golden,COLUMBIA,SONY,46,21_11_2020
+47,46,14,Taylor Swift feat. Bon Iver,Exile,REPUBLIC,UNIVERSAL,37,21_11_2020
+48,NEW,1,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,48,21_11_2020
+49,38,13,Cardi B feat. Megan Thee Stallion,WAP,ATLANTIC,WARNER,14,21_11_2020
+50,42,7,Celeste [UK],Little Runaway,POLYDOR,UNIVERSAL,42,21_11_2020
+1,23,2,Olivia Rodrigo,Drivers License,GEFFEN,UNIVERSAL,1,23_01_2021
+2,1,12,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,23_01_2021
+3,2,15,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,23_01_2021
+4,3,8,Tiësto,The Business,ATLANTIC,WARNER,3,23_01_2021
+5,6,5,The Kid Laroi,Without You,COLUMBIA,SONY,5,23_01_2021
+6,4,24,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,23_01_2021
+7,7,21,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,23_01_2021
+8,5,4,Ed Sheeran,Afterglow,ATLANTIC,WARNER,5,23_01_2021
+9,12,10,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',WARNER,9,23_01_2021
+10,8,12,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,8,23_01_2021
+11,11,20,Tate McRae,You Broke Me First,RCA,SONY,4,23_01_2021
+12,10,7,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,10,23_01_2021
+13,13,10,Regi & Camille,Vechter,DPG/INMEDIATE INT,CNR,7,23_01_2021
+14,14,15,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,11,23_01_2021
+15,22,10,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,15,23_01_2021
+16,9,22,BTS,Dynamite,BIGHIT,SONY,5,23_01_2021
+17,21,22,Miley Cyrus,Midnight Sky,RCA,SONY,6,23_01_2021
+18,24,18,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,23_01_2021
+19,20,3,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,19,23_01_2021
+20,19,18,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,23_01_2021
+21,29,11,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,23_01_2021
+22,33,2,Shane Codd,Get Out My Head,POLYDOR,UNIVERSAL,22,23_01_2021
+23,36,2,The Weeknd,Save Your Tears,REPUBLIC,UNIVERSAL,23,23_01_2021
+24,15,19,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,23_01_2021
+25,27,16,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,23_01_2021
+26,41,2,Robin Schulz feat. Kiddo,All We Got,WARNER,WARNER,26,23_01_2021
+27,16,13,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,23_01_2021
+28,18,18,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,23_01_2021
+29,17,10,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,23_01_2021
+30,25,7,Lil Nas X,Holiday,COLUMBIA,SONY,9,23_01_2021
+31,34,17,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,23_01_2021
+32,42,4,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,32,23_01_2021
+33,26,59,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,23_01_2021
+34,31,29,Banners,Someone To You,ISLAND,UNIVERSAL,8,23_01_2021
+35,35,9,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,23_01_2021
+36,32,13,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,23_01_2021
+37,28,25,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,23_01_2021
+38,37,34,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,23_01_2021
+39,NEW,1,Sheppard,Learning To Fly,DECCA,UNIVERSAL,39,23_01_2021
+40,40,3,Taylor Swift,Willow,REPUBLIC,UNIVERSAL,40,23_01_2021
+41,44,11,Milow,First Day Of My Life,HOMERUN,SONY,28,23_01_2021
+42,38,16,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,23_01_2021
+43,43,18,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,CAROLINE,UNIVERSAL,13,23_01_2021
+44,NEW,1,HVME,Goosebumps,B1,SONY,44,23_01_2021
+45,39,28,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,23_01_2021
+46,RE,2,Lissa Lewis,Regenboog meisje,MOSTIKO,CNR,46,23_01_2021
+47,48,13,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,26,23_01_2021
+48,NEW,1,Purple Disco Machine & Sophie And The Giants,Hypnotized,COLUMBIA,SONY,48,23_01_2021
+49,RE,9,James Arthur,Train Wreck,COLUMBIA,SONY,41,23_01_2021
+50,30,12,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,23_01_2021
+1,1,8,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,26_12_2020
+2,2,11,Jaap Reesema & Pommelien Thijs,Nu wij niet meerpraten,MOSTIKO,CNR,2,26_12_2020
+3,3,20,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,26_12_2020
+4,4,17,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,26_12_2020
+5,5,16,Tate McRae,You Broke Me First,RCA,SONY,4,26_12_2020
+6,16,4,Tiësto,The Business,ATLANTIC,WARNER,6,26_12_2020
+7,8,18,BTS,Dynamite,BIGHIT,SONY,6,26_12_2020
+8,7,6,Regi & Camille,Vechter,DPG/INMEDIATEINT,CNR,7,26_12_2020
+9,20,3,Lil Nas X,Holiday,COLUMBIA,SONY,9,26_12_2020
+10,9,14,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,26_12_2020
+11,6,9,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,26_12_2020
+12,23,6,Ofenbach & Quarterhead feat. Norma Jean Martine,Head Shoulders Knees& Toes,SPINNIN',WARNER,12,26_12_2020
+13,17,15,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,26_12_2020
+14,10,6,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,26_12_2020
+15,11,55,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,26_12_2020
+16,14,8,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,14,26_12_2020
+17,19,12,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,26_12_2020
+18,12,14,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,26_12_2020
+19,22,21,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,26_12_2020
+20,18,14,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,26_12_2020
+21,15,18,Miley Cyrus,Midnight Sky,RCA,SONY,6,26_12_2020
+22,13,11,Bazart,Denk maar niet aanmorgen,DEBONAIR,PIAS,11,26_12_2020
+23,21,13,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,26_12_2020
+24,24,25,Banners,Someone To You,ISLAND,UNIVERSAL,8,26_12_2020
+25,31,7,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,26_12_2020
+26,25,9,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,26_12_2020
+27,34,30,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,26_12_2020
+28,27,5,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,26_12_2020
+29,30,6,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,27,26_12_2020
+30,35,24,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,26_12_2020
+31,29,14,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,CAROLINE,UNIVERSAL,13,26_12_2020
+32,26,12,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,26_12_2020
+33,28,3,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,28,26_12_2020
+34,33,2,Noordkaap & Warmste Koor,Ik hou van u 2020,NOORDKAAP,NOORDKAAP,33,26_12_2020
+35,NEW,1,The Kid Laroi,Without You,COLUMBIA,SONY,35,26_12_2020
+36,37,3,Dimitri Vegas & Like Mike x Armin van Buuren x BrennanHeart feat. Jeremy Oceans,Christmas Time,SMASH THEHOUSE,SMASH THEHOUSE,36,26_12_2020
+37,47,12,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,28,26_12_2020
+38,42,6,Harry Styles,Golden,COLUMBIA,SONY,38,26_12_2020
+39,40,9,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,26,26_12_2020
+40,32,12,Pop Smoke,What You Know BoutLove,REPUBLIC,TOPNOTCH/UNIVERSAL,26,26_12_2020
+41,45,14,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,26_12_2020
+42,36,8,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,26_12_2020
+43,41,7,Milow,First Day Of My Life,HOMERUN,SONY,28,26_12_2020
+44,50,64,Tones And I,Dance Monkey,ELEKTRA,WARNER,1,26_12_2020
+45,48,2,Lucas & Steve feat. Alida,Another Life,541/NEWS,NEWS,45,26_12_2020
+46,44,6,James Arthur,Train Wreck,COLUMBIA,SONY,41,26_12_2020
+47,49,27,Jawsh 685 & Jason Derulo,Savage Love (Laxed -Siren Beat),COLUMBIA,SONY,1,26_12_2020
+48,46,2,CJ,Whoopty,CJ,WARNER,46,26_12_2020
+49,38,14,Justin Bieber feat. Chance The Rapper,Holy,DEF JAM,UNIVERSAL,19,26_12_2020
+50,39,5,Shawn Mendes / Justin Bieber,Monster,ISLAND,UNIVERSAL,35,26_12_2020
+1,1,7,Olivia Rodrigo,Drivers License,GEFFEN,UNIVERSAL,1,27_02_2021
+2,4,10,The Kid Laroi,Without You,COLUMBIA,SONY,2,27_02_2021
+3,8,3,Nathan Evans,Wellerman,POLYDOR,UNIVERSAL,3,27_02_2021
+4,5,7,The Weeknd,Save Your Tears,REPUBLIC,UNIVERSAL,4,27_02_2021
+5,2,13,Tiësto,The Business,ATLANTIC,WARNER,2,27_02_2021
+6,3,17,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,27_02_2021
+7,6,20,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,27_02_2021
+8,25,4,Metejoor feat. Babet,1 op een miljoen,FRUITY,CNR,8,27_02_2021
+9,7,9,Ed Sheeran,Afterglow,ATLANTIC,WARNER,5,27_02_2021
+10,10,12,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,10,27_02_2021
+11,11,29,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,27_02_2021
+12,9,15,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',SPINNIN',7,27_02_2021
+13,14,7,Robin Schulz feat. Kiddo,All We Got,WARNER,WARNER,13,27_02_2021
+14,16,6,HVME,Goosebumps,B1,SONY,14,27_02_2021
+15,20,8,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,15,27_02_2021
+16,17,15,Regi & Camille,Vechter,DPG/INMEDIATE INT,CNR,7,27_02_2021
+17,26,9,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,17,27_02_2021
+18,NEW,1,Riton x Nightcrawlers feat. Mufasa & Hypeman,Friday (Dopamine Re-Edit),MINISTRY OF SOUND,SONY,18,27_02_2021
+19,12,20,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,8,27_02_2021
+20,15,15,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,12,27_02_2021
+21,18,25,Tate McRae,You Broke Me First,RCA,SONY,4,27_02_2021
+22,21,26,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,27_02_2021
+23,13,16,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,13,27_02_2021
+24,19,7,Shane Codd,Get Out My Head,POLYDOR,UNIVERSAL,16,27_02_2021
+25,24,17,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,8,27_02_2021
+26,31,6,Purple Disco Machine & Sophie And The Giants,Hypnotized,COLUMBIA,SONY,26,27_02_2021
+27,22,5,atb x Topic x A7S,Your Love (9PM),RIDE,RIDE,22,27_02_2021
+28,27,27,BTS,Dynamite,BIGHIT,SONY,5,27_02_2021
+29,30,64,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,27_02_2021
+30,29,6,Sheppard,Learning To Fly,DECCA,UNIVERSAL,25,27_02_2021
+31,28,21,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,27_02_2021
+32,23,24,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,27_02_2021
+33,38,12,Lil Nas X,Holiday,COLUMBIA,SONY,9,27_02_2021
+34,32,34,Banners,Someone To You,ISLAND,UNIVERSAL,8,27_02_2021
+35,35,14,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,27_02_2021
+36,46,2,Dua Lipa,We're Good,WARNER,WARNER,36,27_02_2021
+37,47,2,JC Stewart,Break My Heart,WARNER,WARNER,37,27_02_2021
+38,34,15,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,27_02_2021
+39,41,23,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,27_02_2021
+40,NEW,1,Tom Grennan,Little Bit Of Love,INSANITY,SONY,40,27_02_2021
+41,RE,2,Zoe Wees,Girls Like Us,CAPITOL,UNIVERSAL,41,27_02_2021
+42,39,4,Stan Van Samang,Snow,LIVEENTERTAINMENT,UNIVERSAL,39,27_02_2021
+43,36,18,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,27_02_2021
+44,40,3,Celeste [UK],Love Is Back,POLYDOR,UNIVERSAL,40,27_02_2021
+45,37,4,Maude [BE],Dance You Off,MOSTIKO,CNR,31,27_02_2021
+46,43,27,Miley Cyrus,Midnight Sky,RCA,SONY,6,27_02_2021
+47,42,3,Sara Kays,Remember That Night?,ATLANTIC,WARNER,42,27_02_2021
+48,33,23,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,27_02_2021
+49,NEW,1,Lil Tjay feat. 6lack,Calling My Phone,COLUMBIA,SONY,49,27_02_2021
+50,NEW,1,Cleymans & Van Geel,En route,DPG/INMEDIATE INT,CNR,50,27_02_2021
+1,2,16,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,28_11_2020
+2,1,4,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,28_11_2020
+3,4,13,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,28_11_2020
+4,3,7,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,3,28_11_2020
+5,5,12,Tate McRae,You Broke Me First,RCA,SONY,4,28_11_2020
+6,8,14,BTS,Dynamite,BIGHIT,SONY,6,28_11_2020
+7,6,9,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,28_11_2020
+8,11,10,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,28_11_2020
+9,9,10,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,28_11_2020
+10,15,5,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,10,28_11_2020
+11,26,2,Regi & Camille,Vechter,DPG/INMEDIATEINT,CNR,11,28_11_2020
+12,13,2,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,12,28_11_2020
+13,7,14,Miley Cyrus,Midnight Sky,RCA,SONY,6,28_11_2020
+14,17,5,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,28_11_2020
+15,12,17,Master KG feat. Burna Boy & NomceboZikode,Jerusalema (Remix),ELEKTRA,WARNER,1,28_11_2020
+16,14,11,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,28_11_2020
+17,16,10,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,16,28_11_2020
+18,25,8,Sam Smith,Diamonds,CAPITOL,UNIVERSAL,18,28_11_2020
+19,20,8,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,17,28_11_2020
+20,10,20,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,28_11_2020
+21,22,7,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,17,28_11_2020
+22,18,10,Internet Money & Gunna feat. Don Toliver &Nav,Lemonade,CAROLINE,UNIVERSAL,13,28_11_2020
+23,39,4,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,23,28_11_2020
+24,21,3,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,21,28_11_2020
+25,29,26,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,28_11_2020
+26,24,51,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,28_11_2020
+27,19,21,Banners,Someone To You,ISLAND,UNIVERSAL,8,28_11_2020
+28,38,8,Stan Van Samang,Don't Close Your Eyes,LIVEENTERTAINMENT,UNIVERSAL,28,28_11_2020
+29,35,4,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,28_11_2020
+30,28,3,Milow,First Day Of My Life,HOMERUN,SONY,28,28_11_2020
+31,33,8,Pop Smoke,What You Know Bout Love,REPUBLIC,TOPNOTCH/UNIVERSAL,26,28_11_2020
+32,NEW,1,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,32,28_11_2020
+33,31,5,Keith Urban with P!nk,One Too Many,CAPITOL,UNIVERSAL,31,28_11_2020
+34,34,35,Topic feat. A7S,Breaking Me,VIRGIN,UNIVERSAL,3,28_11_2020
+35,27,23,Ava Max,Kings & Queens,ATLANTIC,WARNER,4,28_11_2020
+36,30,10,Justin Bieber feat. Chance The Rapper,Holy,DEF JAM,UNIVERSAL,19,28_11_2020
+37,32,3,Liefde Voor Muziek voor Rode Neuzen Dag,Porselein,DPG/INMEDIATEINT,CNR,32,28_11_2020
+38,23,11,Kygo x Tina Turner,What's Love Got To Do With It,SONY,SONY,12,28_11_2020
+39,48,2,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,39,28_11_2020
+40,41,2,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',WARNER,40,28_11_2020
+41,45,3,James Arthur,Train Wreck,COLUMBIA,SONY,41,28_11_2020
+42,40,14,Suzan & Freek / Snelle,De overkant,SONY/CLOUD 9,SONY,11,28_11_2020
+43,36,24,Jawsh 685 & Jason Derulo,Savage Love (Laxed - SirenBeat),COLUMBIA,SONY,1,28_11_2020
+44,44,7,Dua Lipa feat. DaBaby,Levitating,WARNER,WARNER,32,28_11_2020
+45,43,10,James Bay,Chew On My Heart,REPUBLIC,UNIVERSAL,36,28_11_2020
+46,NEW,1,Shawn Mendes / Justin Bieber,Monster,ISLAND,UNIVERSAL,46,28_11_2020
+47,42,24,Ray Dalton,In My Bones,EPIC,SONY,13,28_11_2020
+48,46,2,Harry Styles,Golden,COLUMBIA,SONY,46,28_11_2020
+49,37,18,Aya Nakamura,Jolie nana,REC. 118,WARNER,8,28_11_2020
+50,47,15,Taylor Swift feat. Bon Iver,Exile,REPUBLIC,UNIVERSAL,37,28_11_2020
+1,1,3,Olivia Rodrigo,Drivers License,GEFFEN,UNIVERSAL,1,30_01_2021
+2,4,9,Tiësto,The Business,ATLANTIC,WARNER,2,30_01_2021
+3,3,16,Jaap Reesema & Pommelien Thijs,Nu wij niet meer praten,MOSTIKO,CNR,1,30_01_2021
+4,5,6,The Kid Laroi,Without You,COLUMBIA,SONY,4,30_01_2021
+5,2,13,Dua Lipa feat. Angèle,Fever,WARNER,WARNER,1,30_01_2021
+6,8,5,Ed Sheeran,Afterglow,ATLANTIC,WARNER,5,30_01_2021
+7,6,25,Joel Corry feat. MNEK,Head & Heart,ASYLUM,WARNER,1,30_01_2021
+8,7,22,24kGoldn feat. Iann Dior,Mood,COLUMBIA,SONY,2,30_01_2021
+9,9,11,Ofenbach & Quarterhead feat. Norma JeanMartine,Head Shoulders Knees & Toes,SPINNIN',SPINNIN',9,30_01_2021
+10,12,8,Meduza feat. Dermot Kennedy,Paradise,ISLAND,UNIVERSAL,10,30_01_2021
+11,10,13,Ava Max,Who's Laughing Now?,ATLANTIC,WARNER,8,30_01_2021
+12,11,21,Tate McRae,You Broke Me First,RCA,SONY,4,30_01_2021
+13,15,11,Netsky & Hybrid Minds,Let Me Hold You,541/NEWS,NEWS,13,30_01_2021
+14,16,23,BTS,Dynamite,BIGHIT,SONY,5,30_01_2021
+15,14,16,Bazart,Denk maar niet aan morgen,DEBONAIR,PIAS,11,30_01_2021
+16,23,3,The Weeknd,Save Your Tears,REPUBLIC,UNIVERSAL,16,30_01_2021
+17,13,11,Regi & Camille,Vechter,DPG/INMEDIATE INT,CNR,7,30_01_2021
+18,17,23,Miley Cyrus,Midnight Sky,RCA,SONY,6,30_01_2021
+19,21,12,Laura Tesoro & Loïc Nottet feat. Alex Germys,Strangers,SONY,SONY,14,30_01_2021
+20,18,19,Rolf Sanchez,Más más más,TOP ACT,UNIVERSAL,8,30_01_2021
+21,19,4,Justin Bieber,Anyone,DEF JAM,UNIVERSAL,19,30_01_2021
+22,26,3,Robin Schulz feat. Kiddo,All We Got,WARNER,WARNER,22,30_01_2021
+23,24,20,Lost Frequencies & Mathieu Koss,Don't Leave Me Now,MOSTIKO,CNR,11,30_01_2021
+24,32,5,Jason Derulo x Nuka,Love Not War (The TampaBeat),ROBOTS & HUMANS,SONY,24,30_01_2021
+25,27,14,Justin Bieber & Benny Blanco,Lonely,DEFJAM/INTERSCOPE,UNIVERSAL,6,30_01_2021
+26,30,8,Lil Nas X,Holiday,COLUMBIA,SONY,9,30_01_2021
+27,44,2,HVME,Goosebumps,B1,SONY,27,30_01_2021
+28,20,19,Jason Derulo,Take You Dancing,ATLANTIC,WARNER,8,30_01_2021
+29,25,17,Shawn Mendes,Wonder,ISLAND,UNIVERSAL,14,30_01_2021
+30,22,3,Shane Codd,Get Out My Head,POLYDOR,UNIVERSAL,22,30_01_2021
+31,29,11,Billie Eilish,Therefore I Am,INTERSCOPE,UNIVERSAL,10,30_01_2021
+32,34,30,Banners,Someone To You,ISLAND,UNIVERSAL,8,30_01_2021
+33,28,19,David Guetta & Sia,Let's Love,PARLOPHONE,WARNER,15,30_01_2021
+34,39,2,Sheppard,Learning To Fly,DECCA,UNIVERSAL,34,30_01_2021
+35,33,60,The Weeknd,Blinding Lights,REPUBLIC,UNIVERSAL,1,30_01_2021
+36,35,10,Miley Cyrus feat. Dua Lipa,Prisoner,RCA/WARNER,SONY/WARNER,27,30_01_2021
+37,NEW,1,atb x Topic x A7S,Your Love (9PM),RIDE,RIDE,37,30_01_2021
+38,31,18,Regi & Camille,Vergeet de tijd,MOSTIKO,CNR,4,30_01_2021
+39,37,26,Master KG feat. Burna Boy & Nomcebo Zikode,Jerusalema (Remix),ELEKTRA,WARNER,1,30_01_2021
+40,38,35,Harry Styles,Watermelon Sugar,COLUMBIA,SONY,2,30_01_2021
+41,40,4,Taylor Swift,Willow,REPUBLIC,UNIVERSAL,40,30_01_2021
+42,36,14,Ariana Grande,Positions,REPUBLIC,UNIVERSAL,14,30_01_2021
+43,NEW,1,Billie Eilish / Rosalía,Lo vas a olvidar,INTERSCOPE,UNIVERSAL,43,30_01_2021
+44,45,29,Zoe Wees,Control,CAROLINE,UNIVERSAL,6,30_01_2021
+45,48,2,Purple Disco Machine & Sophie And The Giants,Hypnotized,COLUMBIA,SONY,45,30_01_2021
+46,49,10,James Arthur,Train Wreck,COLUMBIA,SONY,41,30_01_2021
+47,NEW,1,Henri PFR x Famba feat. Chiara Castelli,No One Knows,SPINNIN',SPINNIN',47,30_01_2021
+48,50,13,5napback & Metejoor,Hoe kon ik zo dom zijn,MOSTIKO,CNR,27,30_01_2021
+49,43,19,Internet Money & Gunna feat. Don Toliver & Nav,Lemonade,CAROLINE,UNIVERSAL,13,30_01_2021
+50,RE,4,Lucas & Steve feat. Alida,Another Life,541/NEWS,NEWS,45,30_01_2021

@@ -1,0 +1,119 @@
+#,Artiste,Titre,fileDate,freq,True_Target,CleanedTitle,id,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+1,Dua Lipa feat. Angèle ,Fever,20-11-14,17,True,Fever,3wJVBz7gvGTwTWVAxFa6ny,81,0.868,0.693,6,-7.052,0,0.181,0.0597,0.00399,0.106,0.396,114.999,156911
+2,24kGoldn feat. Iann Dior ,Mood,20-11-14,17,True,Mood (feat. iann dior),3tjFYV6RSFtuktYl3ZtYcq,95,0.7,0.722,7,-3.558,0,0.0369,0.221,0,0.272,0.756,90.989,140526
+3,Joel Corry feat. MNEK ,Head & Heart,20-11-14,14,True,Head & Heart (feat. MNEK),6cx06DFPPHchuUAcTxznu9,90,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,166028
+4,Master KG feat. Burna Boy & Nomcebo Zikode ,Jerusalema (Remix),20-11-14,13,True,Jerusalema (feat. Burna Boy & Nomcebo Zikode) - Remix,1dmES1X8l1AnFBy2gR3wYA,61,0.837,0.449,1,-7.019,1,0.0554,0.0301,5.37e-05,0.0604,0.825,124.021,328000
+5,David Guetta & Sia ,Let's Love,20-11-14,17,True,Let's Love - David Guetta & MORTEN Future Rave Remix,7HXMzmHisLPilu3phwi73h,55,0.525,0.797,2,-6.939,0,0.122,0.0582,0.748,0.179,0.0855,125.878,222850
+6,Amel Bent x Imen Es ,Jusqu'au bout,20-11-14,15,True,Jusqu'au bout,2kUXqI4t2eLYqCh7Z8guP1,66,0.701,0.696,10,-5.795,0,0.0953,0.192,1.35e-06,0.0942,0.68,117.977,176043
+7,Vianney ,Beau-papa,20-11-14,17,True,beau-papa,5wXkbtZO1HsOQ1P75zi35p,64,0.746,0.506,10,-6.016,0,0.0367,0.364,0,0.123,0.486,122.044,197562
+8,Zoe Wees ,Control,20-11-14,9,True,Control,50Td3qilgs8BLtv8mHyT1t,79,0.599,0.465,4,-4.95,1,0.0314,0.643,1.57e-06,0.149,0.0678,113.82,230880
+9,Sch - Kofs - Jul - Naps - Soso Maness - Elams - Solda - Houari ,Bande organisée,20-11-14,12,True,Bande organisée,205HNJ73cgpC0LAOnuQiWT,74,0.901,0.939,6,-2.762,1,0.274,0.117,0,0.0643,0.805,142.948,356347
+10,Lucky Luke ,Cooler Than Me,20-11-14,12,True,Cooler Than Me,525GY0mXYnxajolwgS8Eaz,78,0.889,0.716,7,-6.146,1,0.0708,0.0595,0.0409,0.168,0.296,128.022,179760
+11,Ava Max ,Who's Laughing Now?,20-11-14,13,True,Who's Laughing Now,1Pmp486RrLRkaEkE3HFHXP,79,0.648,0.641,7,-5.521,1,0.0389,0.00565,3.63e-06,0.109,0.505,184.021,180348
+12,Miley Cyrus ,Midnight Sky,20-11-14,14,True,Midnight Sky,27ycaQnQAxaPiyeg3nr2aB,82,0.705,0.814,4,-5.466,0,0.0346,0.00115,0.00312,0.203,0.259,110.0,223279
+13,BTS ,Dynamite,20-11-14,17,True,Dynamite,4saklk6nie3yiGePpBwUoc,91,0.746,0.765,6,-4.41,0,0.0993,0.0112,0,0.0936,0.737,114.044,199054
+14,Ariana Grande ,Positions,20-11-14,17,True,positions,35mvY5S1H3J2QZyna3TFe0,93,0.737,0.802,0,-4.771,1,0.0878,0.468,0,0.0931,0.682,144.015,172325
+15,Kygo x Tina Turner ,What's Love Got To Do With It,20-11-14,5,True,What's Love Got to Do with It,3Be7CLdHZpyzsVijme39cW,77,0.75,0.664,8,-5.908,0,0.154,0.275,0,0.0632,0.617,105.023,208156
+16,Booba ,5G,20-11-14,2,False,5G,5HHdKznp8Dqp7nNNd5gEW0,69,0.899,0.581,6,-6.652,0,0.384,0.182,0,0.0666,0.548,126.948,187784
+17,Jason Derulo ,Take You Dancing,20-11-14,16,True,Take You Dancing,59qrUpoplZxbIZxk6X0Bm3,87,0.789,0.711,2,-4.248,1,0.041,0.0332,0,0.0876,0.753,112.985,190306
+18,Justin Bieber feat. Chance The Rapper ,Holy,20-11-14,8,True,Holy (feat. Chance The Rapper),5u1n1kITHCxxp8twBcZxWy,88,0.673,0.704,6,-8.056,1,0.36,0.196,0,0.0898,0.372,86.919,212093
+19,Kendji Girac feat. Gims ,Dernier métro,20-11-14,13,True,Dernier métro,3RkKeT2ALw3OBUhFllxxjF,65,0.516,0.733,6,-4.571,0,0.123,0.533,0,0.104,0.533,175.855,223013
+20,Vitaa & Slimane ,Ça ira,20-11-14,4,True,Ça ira,3iaKLS1KOfrAzTLPdXJgHI,24,0.645,0.592,6,-5.339,0,0.0394,0.418,0,0.117,0.558,115.996,194007
+21,Clean Bandit and Mabel feat. 24kGoldn ,Tick Tock,20-11-14,15,True,Tick Tock (feat. 24kGoldn),4XOGTPOhxKdoJYFePkfKAa,26,0.779,0.705,0,-3.895,1,0.0344,0.369,7.91e-06,0.124,0.946,101.022,178374
+22,Naza feat. Niska ,Joli bébé,20-11-14,10,True,Joli bébé,6ARJHbYGKNatxHVghTkWWp,71,0.694,0.632,1,-7.203,0,0.128,0.576,1.21e-06,0.104,0.243,155.01,178312
+23,Calogero ,La rumeur,20-11-14,3,True,La rumeur,0KKIdDRSfwZVDIJUnx9jL5,47,0.621,0.762,7,-6.141,0,0.0415,0.0145,0.00585,0.587,0.716,93.982,223347
+24,Shawn Mendes ,Wonder,20-11-14,11,True,Wonder,5KCbr5ndeby4y4ggthdiAb,83,0.333,0.637,1,-4.904,0,0.0581,0.131,1.8e-05,0.149,0.132,139.898,172693
+25,Tate McRae ,You Broke Me First,20-11-14,17,True,you broke me first,45bE4HXI0AwGZXfZtMp8JR,92,0.667,0.373,4,-9.389,1,0.05,0.785,0,0.0906,0.0823,124.148,169266
+26,JC Stewart ,I Need You To Hate Me,20-11-14,2,False,I Need You To Hate Me,1zY6ekSJ8VI6tZ6nBqoo7g,73,0.637,0.589,9,-5.618,0,0.0352,0.0298,0,0.11,0.376,148.925,157447
+27,Lost Frequencies & Mathieu Koss ,Don't Leave Me Now,20-11-14,10,True,Don't Leave Me Now,59VDjcpB2I8psQasslQpdK,69,0.671,0.752,6,-6.806,0,0.0304,0.0258,0,0.112,0.717,124.998,195080
+28,Koba LaD feat. Maes & Zed ,Coffre plein,20-11-14,4,True,Coffre plein,70pkwEEG7nDTXBFqoGQkH0,71,0.758,0.56,6,-6.69,0,0.0639,0.093,0,0.104,0.606,149.893,220666
+29,Banners ,Someone To You,20-11-14,16,True,Someone To You,14BH4qO7pgCmIe6mgLKOK3,78,0.468,0.936,2,-3.683,1,0.0455,0.00568,0,0.24,0.663,75.05,219800
+30,Louane ,Donne-moi ton cœur,20-11-14,3,True,Donne-moi ton cœur,5amRIQxQgERN9wI1oMuRgw,55,0.705,0.712,8,-7.087,0,0.145,0.596,0.00466,0.106,0.264,94.995,189933
+31,Internet Money & Gunna feat. Don Toliver & Nav ,Lemonade,20-11-14,10,True,Lemonade,02kDW379Yfd5PzW5A6vuGt,88,0.799,0.66,1,-6.153,0,0.079,0.256,0,0.111,0.471,140.04,195429
+32,Sam Smith ,Diamonds,20-11-14,11,True,Diamonds,5hvwx5i67IwnCkjl9VHkNv,81,0.653,0.667,10,-6.764,0,0.0423,0.154,0,0.107,0.556,104.181,213869
+33,Grand Corps Malade & Camille Lellouche ,Mais je t'aime,20-11-14,11,True,Mais je t'aime,2twcZTB1udOEzDCPpTiOju,66,0.476,0.412,9,-10.529,0,0.131,0.796,9.04e-06,0.112,0.209,179.783,270000
+34,Calvin Harris / The Weeknd ,Over Now,20-11-14,2,False,Over Now (with The Weeknd),58AGoOGbwsQMhBbH0eFLRR,76,0.612,0.884,4,-4.113,0,0.0454,0.0759,0.00132,0.247,0.679,178.043,210795
+35,Dua Lipa feat. DaBaby ,Levitating,20-11-14,4,True,Levitating (feat. DaBaby),463CkQjx2Zk1yXoBuierM9,89,0.702,0.825,6,-3.787,0,0.0601,0.00883,0,0.0674,0.915,102.977,203064
+36,Harry Styles ,Watermelon Sugar,20-11-14,2,False,Watermelon Sugar,6UelLqGlWMcVH1E5c4H7lY,90,0.548,0.816,0,-4.209,1,0.0465,0.122,0,0.335,0.557,95.39,174000
+37,Justin Bieber & Benny Blanco ,Lonely,20-11-14,13,True,Lonely (with benny blanco) - Acoustic,4fKiuIavbsoTRZ6R7xuAyT,63,0.365,0.117,11,-10.61,0,0.041,0.969,2.48e-06,0.684,0.119,168.744,155188
+38,Pop Smoke ,What You Know Bout Love,20-11-14,3,True,What You Know Bout Love,1tkg4EHVoqnhR6iFEXb60y,91,0.709,0.548,10,-8.493,1,0.353,0.65,1.59e-06,0.133,0.543,83.995,160000
+39,Franglish feat. Tory Lanez ,My Salsa,20-11-14,3,True,My Salsa,7IJIj326qJJA6oi6EpFCBD,70,0.841,0.574,4,-6.183,0,0.0834,0.276,0,0.0752,0.548,98.999,209816
+40,Alliel ,Ce qui nous rend fous,20-11-14,7,True,Ce qui nous rend fous,4j4xw9WNy4u3AHWzKEHOUp,48,0.76,0.589,2,-5.836,0,0.0836,0.485,0,0.341,0.742,103.02,172270
+41,Jawsh 685 & Jason Derulo ,Savage Love (Laxed - Siren Beat),20-11-14,1,False,Savage Love (Laxed - Siren Beat) [Originally performed by Jawsh 685 and Jason Derulo] [Instrumental],3DJbytRtLbAPZKp2bcD7vk,17,0.851,0.273,0,-16.122,0,0.062,0.0836,0.891,0.0608,0.408,148.027,169183
+42,Julien Doré ,La fièvre,20-11-14,1,False,La fièvre,79jeTvkW3gvUdldDkQpYOf,62,0.804,0.649,2,-7.926,0,0.0669,0.599,0.0105,0.0982,0.412,89.98,241547
+43,DaBaby feat. Roddy Ricch ,Rockstar,20-11-14,1,False,ROCKSTAR (feat. Roddy Ricch),7ytR5pFWmSjzHJIeQkgog4,90,0.746,0.69,11,-7.956,1,0.164,0.247,0,0.101,0.497,89.977,181733
+44,Amir [FR] ,La fête,20-11-14,1,False,La fête,7y9gbZ9CUnYkpBK4q0qnjB,58,0.758,0.582,10,-6.233,0,0.111,0.215,0,0.129,0.824,98.096,192857
+45,Dadju ,Amour toxic,20-11-14,8,True,Amour toxic,70APCdHsWV5BEsacwjzXmd,68,0.718,0.416,5,-8.758,1,0.0675,0.796,1.85e-06,0.0992,0.642,132.074,218481
+46,Mika & Soprano ,Le cœur Holiday,20-11-14,8,True,Le Coeur Holiday (with Soprano),75zEAmY1gzzEl2TL3REWTf,47,0.755,0.743,2,-6.015,1,0.136,0.0665,0,0.174,0.331,105.984,210181
+47,Julien Doré ,Nous,20-11-14,17,True,Nous,1kYjNPTvZ8G68dYTkG3BqD,67,0.811,0.567,9,-9.366,1,0.0601,0.504,0.518,0.099,0.629,111.028,199547
+48,Dua Lipa ,Break My Heart,20-11-14,3,True,Break My Heart,017PF4Q3l4DBUiWoXk4OWT,83,0.73,0.729,4,-3.434,0,0.0883,0.167,1.39e-06,0.349,0.467,113.013,221820
+49,Suarez feat. Maria Del Rio ,Sarà perché ti amo,20-11-14,1,False,Sara' Perche Ti Amo,08sbpioHxwU7zyyMvmC8A9,41,0.828,0.677,4,-9.197,1,0.0294,0.0859,0,0.198,0.961,120.273,195133
+50,Tiësto ,The Business,20-11-14,17,True,The Business,6f3Slt0GbA2bPZlz0aIFXN,94,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,0.235,120.031,164000
+36,Aya Nakamura ,Jolie nana,20-11-21,2,False,Jolie nana,65RWVU6N81CeH65nu52K1U,72,0.813,0.64,2,-5.908,1,0.272,0.269,0,0.131,0.488,92.989,147076
+37,Kylie Minogue ,Magic,20-11-21,12,True,Magic,0I4658wYMK45Ffx1IlKRjG,65,0.732,0.782,0,-4.844,1,0.03,0.0268,9.94e-06,0.106,0.655,106.048,250680
+40,Aya Nakamura ,Doudou,20-11-21,1,False,Doudou,1Z8zI3ue4kg77xusnNOQO4,0,0.773,0.609,4,-5.855,0,0.244,0.136,0,0.0729,0.697,98.071,168719
+41,Billie Eilish ,Therefore I Am,20-11-21,14,True,Therefore I Am,54bFM56PmE4YLRnqpW6Tha,91,0.889,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,174321
+45,Robin Schulz & Wes ,Alane,20-11-21,1,False,Alane,2u6Jm2klS4yvAlbSHlxUwI,74,0.581,0.799,3,-6.66,1,0.164,0.0419,9.43e-06,0.11,0.662,124.002,175016
+48,Black Eyed Peas x Nicky Jam x Tyga ,Vida loca,20-11-21,6,True,VIDA LOCA,6c6Pr4ALb2SD7j7UnS5YDE,68,0.885,0.618,10,-5.705,0,0.0544,0.0225,2.17e-05,0.325,0.769,127.983,234375
+49,Lucenzo ,No me ama,20-11-21,3,True,No Me Ama,4DN8e56DFCEXISA8Uqz5Pw,52,0.799,0.675,7,-5.999,0,0.0772,0.418,0,0.0958,0.678,96.797,167474
+23,Zola feat. Sch ,9 1 1 3,20-11-28,2,False,9 1 1 3,2DEOU0i9hGeHH3VHVGbZHx,57,0.909,0.636,6,-6.581,0,0.236,0.168,0.000227,0.346,0.42,100.954,159012
+36,Aya Nakamura feat. Stormzy ,Plus jamais,20-11-28,6,True,Plus Jamais (feat. Stormzy),7iZVBT6LV32t4l00p73VAw,74,0.605,0.419,1,-9.032,1,0.0342,0.373,0,0.128,0.291,152.161,175257
+42,Henri PFR x Famba feat. Chiara Castelli ,No One Knows,20-11-28,13,True,No One Knows (feat. Chiara Castelli),0dQQQRxfaTjjDdpno92mTT,60,0.725,0.767,11,-7.472,0,0.0501,0.114,5.29e-06,0.0954,0.447,124.103,147097
+47,Maluma & The Weeknd ,Hawái (Remix),20-11-28,10,True,Hawái - Karaoke Version Originally Performed By Maluma & The Weeknd,2eh7GB3R38LqPpjEDnVpbE,1,0.653,0.98,2,-7.219,1,0.0971,0.0561,0.0317,0.57,0.467,117.981,204366
+48,Ofenbach & Quarterhead feat. Norma Jean Martine ,Head Shoulders Knees & Toes,20-11-28,9,True,Head Shoulders Knees & Toes (feat. Norma Jean Martine),6i7zAdNhzUN2k1HcrBxPHG,83,0.798,0.828,2,-5.36,1,0.193,0.0247,2.55e-06,0.121,0.6,124.962,156960
+49,Dadju feat. Tiakola ,Dieu merci,20-11-28,6,True,Dieu merci,4kTF7OQVjTSZ5zdRqo8zxx,70,0.718,0.524,8,-7.183,0,0.0587,0.395,0,0.215,0.825,133.998,211649
+27,Dinos feat. Nekfeu ,Moins un,20-12-05,2,False,Moins un,7xISE22N518t5HLsibFvEC,67,0.918,0.399,1,-8.795,1,0.37,0.19,0,0.0751,0.483,109.031,203453
+38,Twocolors ,Lovefool,20-12-05,2,False,Lovefool,51Of5p3lKZeOg6itfs4og4,82,0.677,0.766,6,-6.896,1,0.0568,0.0219,6.81e-06,0.129,0.198,123.062,190488
+43,Vald ,Gotaga,20-12-05,1,False,Gotaga,2diEeH1DjfrYGRlXENLkdY,64,0.493,0.702,11,-6.457,0,0.275,0.251,0,0.338,0.342,199.739,138053
+47,Maître Gims ,Jusqu'ici tout va bien,20-12-05,14,True,Jusqu'ici tout va bien,3nFeSrghy0gmuhkuPPiXzQ,50,0.755,0.511,5,-6.914,0,0.0432,0.41,0,0.0768,0.48,122.971,234174
+48,HVME ,Goosebumps,20-12-05,14,True,Goosebumps - Remix,5uEYRdEIh9Bo4fpjDd4Na9,90,0.841,0.593,1,-7.846,1,0.0379,0.418,0,0.124,0.808,124.917,162803
+32,Eva [FR] ,Cœur noir,20-12-12,6,True,Cœur noir,2SYYB9pwxbYJducVc2xGWD,75,0.492,0.528,8,-6.245,0,0.0721,0.644,0,0.107,0.461,115.679,180573
+35,The Weeknd ,Blinding Lights,20-12-12,8,True,Blinding Lights,0VjIjW4GlUZAMYd2vXMi3b,96,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,200040
+39,Kygo x Donna Summer ,Hot Stuff,20-12-12,13,True,Hot Stuff,00ETaeHUQ6lops3oWU1Wrt,74,0.681,0.773,5,-5.749,1,0.148,0.019,1.28e-06,0.11,0.429,119.961,199008
+44,Amir [FR] ,On verra bien,20-12-12,9,True,On verra bien,4pXVE8UhqP0E0xsO5M4kHQ,50,0.648,0.719,8,-6.528,0,0.13,0.101,0,0.096,0.244,124.076,190374
+47,M. Pokora ,S'en aller,20-12-12,4,True,S'en aller,2K7cwKdycqKKHNoAdwRX5V,29,0.781,0.707,7,-6.232,0,0.0401,0.311,0,0.078,0.588,109.978,188973
+49,SAINt JHN ,Roses (Imanbek Remix),20-12-12,1,False,Roses - Imanbek Remix,0zLCBJZSiELJf02ucPP9wb,75,0.769,0.719,8,-5.472,1,0.0474,0.0143,0.00777,0.359,0.863,121.955,176867
+23,Lil Nas X ,Holiday,20-12-19,11,True,HOLIDAY,6zFMeegAMYQo0mt8rXtrli,88,0.81,0.511,5,-6.924,0,0.164,0.12,0,0.0832,0.837,151.947,154998
+33,Indochine feat. Christine And The Queens ,3Sex,20-12-19,12,True,3SEX,15rbohvA7sY5AMoD3gMMFo,48,0.694,0.631,0,-8.656,1,0.0518,0.445,2.28e-05,0.162,0.275,137.999,256027
+38,Jul & Sch ,Mother Fuck,20-12-19,5,True,Mother Fuck,6PqRRt5BCxO6tay5Nry0dj,70,0.807,0.87,1,-5.109,1,0.0812,0.448,0.000278,0.0964,0.566,139.994,216867
+48,Meduza feat. Dermot Kennedy ,Paradise,20-12-19,12,True,Paradise (feat. Dermot Kennedy),6ft4hAq6yde8jPZY2i5zLr,91,0.632,0.595,8,-7.644,0,0.0401,0.0689,0,0.209,0.435,124.114,167903
+49,Louane ,Désolée,20-12-19,5,True,Désolée,4j2KuzWSozezx5ecm1777f,42,0.781,0.631,7,-8.013,0,0.207,0.339,1.86e-06,0.107,0.568,102.996,183120
+38,Suarez feat. Maria Del Rio ,Feliz Navidad,20-12-26,2,False,Feliz Navidad,5rQmkDyS4dw5exeFGaIAtD,24,0.694,0.7,9,-4.513,1,0.0356,0.437,0,0.348,0.888,140.006,140835
+42,Shawn Mendes / Justin Bieber ,Monster,20-12-26,7,True,Monster (Shawn Mendes & Justin Bieber),2Z8yfpFX0ZMavHkcIeHiO1,87,0.652,0.383,2,-7.076,0,0.0516,0.0676,0,0.0828,0.549,145.765,178994
+48,Laura Tesoro & Loïc Nottet feat. Alex Germys ,Strangers,20-12-26,11,True,Strangers (feat. Alex Germys),7326VW0SoLLJ6CXg4Z0dyC,60,0.691,0.535,1,-8.404,1,0.0454,0.0966,6.1e-05,0.0848,0.255,104.006,198787
+30,Ed Sheeran ,Afterglow,21-01-02,9,True,Afterglow,0E4Y1XIbs8GrAT1YqVy6dq,88,0.641,0.324,11,-5.851,1,0.0299,0.698,0,0.328,0.273,110.184,185487
+43,Calogero ,Celui d'en bas,21-01-02,9,True,Celui d'en bas - Edit,6F9zYTeHis63GodcFJl3cb,53,0.546,0.562,11,-8.322,0,0.0304,0.282,0,0.0678,0.502,141.912,222520
+50,Miley Cyrus feat. Dua Lipa ,Prisoner,21-01-02,6,True,Prisoner (feat. Dua Lipa),5JqZ3oqF00jkT81foAFvqg,87,0.781,0.67,3,-3.912,0,0.0452,0.0103,0,0.0761,0.595,127.99,169333
+44,Robin Schulz feat. Kiddo ,All We Got,21-01-09,9,True,All We Got (feat. KIDDO),1FP9s72rDYty6mfoOEYKnE,85,0.504,0.76,4,-4.246,1,0.0426,0.286,0,0.151,0.64,183.933,190218
+50,Bad Bunny x Jhay Cortez ,Dákiti,21-01-09,8,True,DÁKITI,47EiUVwUp4C9fGccaPuUCS,93,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,205090
+37,Black Eyed Peas x Shakira ,Girl Like Me,21-01-16,8,True,GIRL LIKE ME,1zLBsSVxETQOfINOLYvT5m,89,0.965,0.485,2,-8.784,1,0.191,0.0206,0.0237,0.0655,0.312,124.025,222523
+45,Tones And I ,Fly Away,21-01-16,4,True,Fly Away,5ri4zqtWhG07hIuNNDWP76,83,0.806,0.513,4,-6.208,1,0.0685,0.217,0,0.217,0.503,124.988,178157
+13,Olivia Rodrigo ,Drivers License,21-01-23,7,True,drivers license,7lPN2DXiMsVn7XUKtOW1CS,100,0.585,0.436,10,-8.761,1,0.0601,0.721,1.31e-05,0.105,0.132,143.874,242014
+33,Grand Corps Malade ,Pas essentiel,21-01-23,5,True,Pas essentiel,4zdlwusc7gvtqTywDEvslg,59,0.792,0.907,8,-4.992,1,0.0665,0.191,0.000326,0.0777,0.591,117.019,175449
+37,Vitaa & Slimane ,De l'or,21-01-23,7,True,De l'or,0A55X20X5KcBcTVceC0D0s,32,0.561,0.598,5,-6.158,1,0.0571,0.149,0,0.0689,0.538,104.764,228984
+38,Ava Max ,My Head & My Heart,21-01-23,7,True,My Head & My Heart,1KixkQVDUHggZMU9dUobgm,87,0.614,0.934,9,-3.709,0,0.07,0.0697,0,0.121,0.436,116.001,174760
+39,Amel Bent & Hatik ,"1,2,3",21-01-23,6,True,"1,2,3",7uCLrBdy5FH6T7vcJzqRd7,74,0.722,0.497,10,-7.779,0,0.0632,0.767,0,0.122,0.684,147.794,225998
+49,Suarez ,Céleste,21-01-23,6,True,Céleste,6Yw4beBdHGYKN7LFyTlSdY,26,0.648,0.712,1,-8.652,0,0.0336,0.84,0.0179,0.102,0.662,148.035,178293
+33,Jason Derulo x Nuka ,Love Not War (The Tampa Beat),21-01-30,6,True,Love Not War (The Tampa Beat),4Lt6GXGzYsa1tgkv3nGSTm,85,0.738,0.85,8,-3.049,1,0.0642,0.105,0,0.23,0.865,98.013,192921
+45,The Kid Laroi ,Without You,21-01-30,6,True,WITHOUT YOU,27OeeYzk6klgBh83TSvGMA,94,0.662,0.413,0,-7.357,1,0.0299,0.213,0,0.134,0.467,93.005,161385
+49,The Weeknd ,Save Your Tears,21-01-30,6,True,Save Your Tears,5QO79kh1waicV47BqGRL3g,96,0.68,0.826,0,-5.487,1,0.0309,0.0212,1.24e-05,0.543,0.644,118.051,215627
+50,Julie Zenatti ,Paisiblement fou,21-01-30,5,True,Paisiblement fou,7zfijT96QMtDDQmkLNaGq0,27,0.631,0.849,2,-5.714,1,0.053,0.0698,0,0.0941,0.644,115.939,163840
+27,Booba ,Ratpi World,21-02-06,2,False,RATPI WORLD,2ZjTAieewsBC24kPGfLagc,75,0.792,0.644,1,-8.525,1,0.0657,0.12,0.0135,0.117,0.677,139.98,135595
+38,Sia ,Courage To Change,21-02-06,5,True,Courage to Change,2MbgQKWhoii8bqsMBWWWgA,77,0.307,0.606,11,-5.567,0,0.0347,0.0927,0,0.357,0.11,78.828,292656
+41,Les Enfoirés ,Maintenant,21-02-06,5,True,Maintenant - Version radio,1h7LWORFpHl8qTz8xXlVYN,60,0.722,0.646,7,-6.678,0,0.0734,0.18,0,0.0975,0.459,112.991,217133
+25,Hamza feat. Zed ,Réel,21-02-13,1,False,Réel (feat. Zed),2Ilo9KNm4tD3dQhAVEnhvn,63,0.693,0.508,4,-8.149,0,0.228,0.141,1.22e-06,0.075,0.591,144.079,222821
+30,Sch ,Marché noir,21-02-13,2,False,Marché noir,4uOiz6kmw0NkJLWAS0etWx,74,0.55,0.546,2,-8.567,0,0.39,0.416,0.00104,0.571,0.204,80.035,210953
+49,Riton x Nightcrawlers feat. Mufasa & Hypeman ,Friday (Dopamine Re-Edit),21-02-13,4,True,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,4cG7HUWYHBV6R6tHn1gxrl,87,0.824,0.862,2,-3.424,1,0.126,0.0076,0.000132,0.303,0.801,122.98,169153
+50,Ykons ,Sequoia Trees,21-02-13,4,True,Sequoia Trees,0GNvrasvTX93h4ljqq04qe,37,0.608,0.905,2,-4.963,1,0.0442,0.00143,2.59e-06,0.248,0.635,124.962,180013
+45,Kendji Girac ,Évidemment,21-02-20,3,True,Evidemment,5FIm6nxZHSATCCeRSYier0,63,0.369,0.578,10,-6.813,1,0.059,0.543,1.41e-06,0.115,0.314,77.797,237653
+46,Justin Bieber ,Anyone,21-02-20,2,False,Anyone,31qCy5ZaophVA81wtlwLc4,92,0.686,0.538,2,-8.026,1,0.0345,0.181,3.13e-06,0.113,0.584,115.884,190779
+47,Delta [BE] ,Nirvana,21-02-20,3,True,Doorway to Nirvana,5CBUXUPyITAxMTwnRf8raK,0,0.168,0.00194,1,-44.454,1,0.0604,0.768,0.728,0.111,0.0399,115.711,182000
+48,atb x Topic x A7S ,Your Love (9PM),21-02-20,3,True,Your Love (9PM),5YaskwnGDZFDRipaqzbwQx,88,0.669,0.784,7,-5.603,1,0.112,0.194,6.28e-06,0.115,0.517,125.993,150053
+33,JC Stewart ,Break My Heart,21-02-27,3,True,Break My Heart,6KMkEX692kOyqJ7WuPhRab,69,0.653,0.763,9,-5.137,0,0.0719,0.00701,0,0.137,0.642,159.02,179856
+40,Ashnikko feat. Kelis ,Deal With It,21-02-27,2,False,Deal With It (feat. Kelis),47HA2S1j9yj34Ff1aIsF5Y,71,0.712,0.689,1,-5.286,0,0.128,0.141,0,0.657,0.49,82.98,191149
+45,Shane Codd ,Get Out My Head,21-02-27,2,False,Get Out My Head,055Mme9ReKK99jRFA5UJ55,79,0.693,0.913,0,-3.035,1,0.0298,0.0542,6.87e-05,0.231,0.795,123.989,204933
+47,CJ ,Whoopty,21-02-27,2,False,Whoopty,5vGLcdRuSbUhD8ScwsGSdA,91,0.719,0.648,3,-7.6,0,0.125,0.2,0,0.127,0.66,140.201,123263
+48,Kid Noize feat. Gio Kemper ,Monster Next Door,21-02-27,2,False,Monster Next Door,1T91K3C9HbX63tsJuk2mVu,38,0.626,0.768,7,-5.462,1,0.0358,0.0283,0,0.151,0.538,124.999,158080
+7,Tayc ,Le temps,21-03-06,1,False,Le temps,6yIh43XrY4Mc5xOxeagVhp,65,0.577,0.595,6,-6.084,1,0.173,0.108,0.000101,0.0759,0.633,201.892,197241
+41,Ofenbach feat. Lagique ,Wasted Love,21-03-06,1,False,Wasted Love (feat. Lagique),2pPO9YecZimmuVQfIzfV6U,80,0.734,0.855,6,-4.578,0,0.135,0.0821,4.73e-06,0.0901,0.54,121.955,139563
+50,Antoine Delie ,Dis-moi,21-03-06,1,False,Dis-moi,6L6KPuoR8B2miZl8I3ie4R,34,0.912,0.613,10,-6.289,1,0.0522,0.0101,0.00641,0.11,0.578,117.971,176949
