@@ -18,7 +18,7 @@ from inference_schema.parameter_types.numpy_parameter_type import NumpyParameter
 from inference_schema.parameter_types.pandas_parameter_type import PandasParameterType
 
 
-input_sample = pd.DataFrame({"VW": pd.Series(["example_value"], dtype="object"), "acousticness": pd.Series([0.0], dtype="float64"), "danceability": pd.Series([0.0], dtype="float64"), "duration_ms": pd.Series([0], dtype="int64"), "energy": pd.Series([0.0], dtype="float64"), "instrumentalness": pd.Series([0.0], dtype="float64"), "key": pd.Series([0], dtype="int64"), "liveness": pd.Series([0.0], dtype="float64"), "loudness": pd.Series([0.0], dtype="float64"), "mode": pd.Series([0], dtype="int64"), "popularity": pd.Series([0], dtype="int64"), "speechiness": pd.Series([0.0], dtype="float64"), "tempo": pd.Series([0.0], dtype="float64"), "valence": pd.Series([0.0], dtype="float64")})
+input_sample = pd.DataFrame({"VW": pd.Series([0], dtype="int64"), "acousticness": pd.Series([0.0], dtype="float64"), "danceability": pd.Series([0.0], dtype="float64"), "duration_ms": pd.Series([0], dtype="int64"), "energy": pd.Series([0.0], dtype="float64"), "instrumentalness": pd.Series([0.0], dtype="float64"), "key": pd.Series([0], dtype="int64"), "liveness": pd.Series([0.0], dtype="float64"), "loudness": pd.Series([0.0], dtype="float64"), "mode": pd.Series([0], dtype="int64"), "popularity": pd.Series([0], dtype="int64"), "speechiness": pd.Series([0.0], dtype="float64"), "tempo": pd.Series([0.0], dtype="float64"), "valence": pd.Series([0.0], dtype="float64")})
 output_sample = np.array([0])
 try:
     log_server.enable_telemetry(INSTRUMENTATION_KEY)
